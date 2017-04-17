@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AKS Reader</string>
+    <string name="app_desc">One solution for read (pdf, xls, doc and text) files.</string>
+    <string name="contact_id">andro.aksingh@gmail.com</string>
+    <string name="toast_pick_file_error">Unable to pick file. Check status of file manager.</string>
+    <string name="display_assets">Displaying from assets folder</string>
+    <string name="display_sdcard">Display from SDCard location</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/reader_pdf</item>
+        <item>@string/reader_excel</item>
+        <!--<item>@string/reader_doc</item>-->
+        <item>@string/reader_text</item>
+    </string-array>
+
+    <string name="reader_pdf">Pdf Reader</string>
+    <string name="reader_excel">Excel Reader</string>
+    <string name="reader_doc">Doc Reader</string>
+    <string name="reader_text">text Reader</string>
+</resources>

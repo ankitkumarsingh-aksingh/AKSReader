@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "G:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "J:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "J:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "J:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "J:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "J:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "J:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "G:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "G:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "J:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "J:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "G:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "G:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "G:\\Projects\\AKSReader\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "G:\\Projects\\AKSReader\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_left.xml"
+    }
+]
